@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    background-color: rgb(53, 40, 37);
+    padding: 20px;
+    margin: -8px;
+    justify-content: space-between; 
+    color: rgb(246, 246, 246);
+
+}
+
+.My-Store{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.log-out{border: none;
+    background-color: rgb(255, 86, 2);
+    cursor: pointer;
+    width: 80px;
+   
+
+}
